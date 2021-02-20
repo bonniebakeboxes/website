@@ -32185,6 +32185,7 @@ a.u-link.u-text-hover-grey-90:hover {
   width: 128px;
   min-width: 80px;
   white-space: nowrap;
+  animation-duration: 1000ms;
   margin: 44px auto;
 }
 
